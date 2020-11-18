@@ -1,7 +1,7 @@
 {
   "name": "whatsapp_elmenoufi",
-  "version": "2.0.21",
-  "description": "API WHATS 2.0.21",
+  "version": "2.1.0",
+  "description": "API WHATS 2.1.0",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
